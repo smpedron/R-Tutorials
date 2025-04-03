@@ -31,7 +31,7 @@ summary(CCES10)
 mean(CCES10$pid7, na.rm = T) # mean
 max(CCES10$pid7, na.rm = T) # maximum
 min(CCES10$pid7, na.rm = T) # minimum
-median(CCES10$pid7, na.rm = T) # mediaan
+median(CCES10$pid7, na.rm = T) # median
 qunatile(CCES10$pid7, probs = c(0.25, 0.5, 0.75), na.rm = T)
 IQR(CCES10$pid7, na.rm = T) # interquartile range
 sd(CCES10$pid7, na.rm = T) # standard deviation
